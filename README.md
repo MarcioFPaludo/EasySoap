@@ -22,7 +22,7 @@ pod 'EasySoap'
 
 ## Author
 
-MarcioFPaludo, marciofochesatopaludo@gmail.com
+MarcioFPaludo, marciof.paludo@gmail.com
 
 ## License
 
