@@ -1,0 +1,16 @@
+PODS:
+  - EasySoap (0.1.0)
+
+DEPENDENCIES:
+  - EasySoap (from `../`)
+
+EXTERNAL SOURCES:
+  EasySoap:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasySoap: d7b59f9745696a3ca2f9e91e1a03db9522803fae
+
+PODFILE CHECKSUM: 0a690b30efdba0fb8d27df0a4890f4e2f03c6a64
+
+COCOAPODS: 1.6.0

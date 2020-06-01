@@ -1,0 +1,22 @@
+{
+  "name": "EasySoap",
+  "version": "0.1.0",
+  "summary": "A short description of EasySoap.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MarcioFPaludo/EasySoap",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MarcioFPaludo": "marciofochesatopaludo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/MarcioFPaludo/EasySoap.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EasySoap/Classes/**/*"
+}

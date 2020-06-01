@@ -1,0 +1,6 @@
+framework module EasySoap {
+  umbrella header "EasySoap-umbrella.h"
+
+  export *
+  module * { export * }
+}

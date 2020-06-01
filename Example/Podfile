@@ -1,0 +1,6 @@
+use_frameworks!
+target 'EasySoap_Tests' do
+  pod 'EasySoap', :path => '../'
+  
+  
+end
