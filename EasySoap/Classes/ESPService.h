@@ -14,8 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @protocol ESPServiceDelegate <NSObject>
 
-- (void)service:(ESPService *)service returnWithEnvelope:(ESPEnvelope *)envelope;
-- (void)service:(ESPService *)service returnWithError:(NSError *)error;
+@required - (void)service:(ESPService *)service returnWithEnvelope:(ESPEnvelope *)envelope;
+@required - (void)service:(ESPService *)service returnWithError:(NSError *)error;
 
 @end
 

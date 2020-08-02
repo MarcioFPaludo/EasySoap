@@ -13,7 +13,7 @@
 {
     NSString *string = [self stringByReplacingOccurrencesOfString:@"&" withString:@"&amp;"];
     string = [string stringByReplacingOccurrencesOfString:@"\"" withString:@"&quot;"];
-    string = [string stringByReplacingOccurrencesOfString:@"'" withString:@"&apos"];
+    string = [string stringByReplacingOccurrencesOfString:@"'" withString:@"&apos;"];
     string = [string stringByReplacingOccurrencesOfString:@">" withString:@"&gt;"];
     string = [string stringByReplacingOccurrencesOfString:@"<" withString:@"&lt;"];
     
